@@ -4,9 +4,7 @@
 
 ##### Connect with me
 
-![https://instagram.com/mhmmdnasruloh/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://linkedin.com/in/mnasruloh](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhmmdnasruloh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mnasruloh)
 ##### My github Stats
 
 ![M NASRULOH GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmmdnasruloh&show_icons=true&theme=blue_navy)
